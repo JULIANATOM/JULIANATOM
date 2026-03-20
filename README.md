@@ -35,5 +35,5 @@ Especialista en la transformación de datos complejos en decisiones estratégica
 ---
 
 ## 📫 Contacto
-* **LinkedIn:** [Tu-Perfil-Aquí]
-* **Email:** [Tu-Correo-Profesional]
+* **LinkedIn:** https://www.linkedin.com/in/julianchaparro
+* **Email:** julianchaparrolattorre@gmail.com
